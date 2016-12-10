@@ -8,8 +8,8 @@ description: >-
   70, 80, 90 and 100 percent as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-10T12:50:48.321Z'
-datePublished: '2016-12-10T12:50:54.497Z'
+dateModified: '2016-12-10T21:45:49.962Z'
+datePublished: '2016-12-10T21:45:50.634Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
