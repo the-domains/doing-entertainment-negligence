@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-10T10:18:24.677Z'
+datePublished: '2016-12-10T12:24:46.593Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-10T10:18:23.289Z'
+dateModified: '2016-12-10T12:24:46.169Z'
 title: Union Benefits
 publisher: {}
 description: >-
@@ -20,6 +20,8 @@ url: union-benefits/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c3bf4bf-056f-4827-aeb9-173316d2622d.jpg)
+
 # Union Benefits
 
 A Union Laborer has many advantages over his non-union counterpart. First and foremost, a Union Laborer is part of an organization whose goal is to provide good wages, benefits and safe working conditions for all of its members. The Laborers International Union of North America ([LIUNA][0]) strives to maintain that goal each and every day.
