@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-12-10T10:37:06.900Z'
+datePublished: '2016-12-10T10:38:23.965Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-10T10:37:06.166Z'
+dateModified: '2016-12-10T10:38:22.887Z'
 title: Apprentice Program
 publisher: {}
 description: >-
