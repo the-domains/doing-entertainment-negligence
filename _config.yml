@@ -1,14 +1,45 @@
-layout_spectrum: 0.2839386505074799
-typography_spectrum: 0.37439887993969023
+typography_spectrum: 0.6308708572010556
 color:
-  brandStrength: 0.3234741482883692
-  lightness: 0.2863773866556585
-  saturation: 0.46546130487695336
-  rhythmicContrast: 0.21623548958450556
+  brandStrength: 0.9221814390219343
+  lightness: 0.6105745100097196
+  saturation: 0.15053068761492497
+  rhythmicContrast: 0.2889224442231036
   brandColors:
-    - '#FC1884'
     - '#000000'
-    - '#FFFFFF'
-    - '#4D4D4D'
-    - '#949494'
-name: Doing Entertainment Negligence
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+github: true
+layout_spectrum: 0.8451501659021741
+author:
+  name: Ambassadors of Style
+  email: ambassadorofstylejr@gmail.com
+  url: 'http://aostyle.org'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe354317-c3f5-42eb-9868-7bb3e2676180.png
+name: DEN
+navigation:
+  - name: Home
+    url: 'http://aostyle.org/'
+    type: external
+  - name: Classes
+    id: 5c62408b-03de-40b5-b9a5-ee026b07bf26
+    type: content
+  - name: Apprentice Program
+    id: 8750d582-2bec-4133-b2a6-b5f61db45b70
+    type: content
+  - name: Union Benefits
+    id: 2c6c3478-4b2e-463e-b72d-be4ba88708dd
+    type: content
+  - name: About Us
+    id: 00965b74-d2f3-4160-96a0-5bc54214610e
+    type: content
+  - name: Contact
+    id: 5a924824-5e72-4ca9-a342-b7a907d000aa
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a52641a-57db-4a70-a17f-f43e8c53a363.png
+title: ''
+content: []
+description: ''
