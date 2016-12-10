@@ -1,13 +1,11 @@
 ---
-datePublished: '2016-12-10T10:18:24.688Z'
+datePublished: '2016-12-10T10:26:45.621Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-10T10:18:23.289Z'
+dateModified: '2016-12-10T10:26:42.680Z'
 title: Apprentice Program
-publisher:
-  name: DEN
-  url: 'http://tumblr.jdotrdot'
+publisher: {}
 description: >-
   DEN’s Apprenticeship is designed as a two-year program. A minimum of 2400
   hours of on-the-job work training and 360 hours of classroom training is
@@ -24,7 +22,6 @@ url: apprentice-program/index.html
 _type: Article
 
 ---
-![a wandering ambassador of style](https://the-grid-user-content.s3-us-west-2.amazonaws.com/545dc32e-862c-4b91-8213-2c9921cebee7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2663e809-0d73-4cfa-80e1-83abab4aa760.png)
 
 # Apprentice Program
@@ -48,5 +45,6 @@ Additional requirements are:
 Sponsorship letters are accepted year round. Successful applicants will be required to join the Laborers' Union.
 
 For additional questions contact the Training Center in Assigned Personnel at (630) 777-0006\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b38577c-493f-4181-8727-aca82083d923.png)
 
 [0]: http://www.chicagolaborersdistrictcouncil.org/what-is-a-laborer.html
