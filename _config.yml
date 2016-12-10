@@ -20,12 +20,12 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe354317-c3f5-42eb-9868-7bb3e2676180.png
 name: DEN
 navigation:
-  - name: Classes
-    id: 7067a2d7-0f7c-4ec4-a0af-3af49b118b36
-    type: content
   - name: Home
     url: 'http://aostyle.org/'
     type: external
+  - name: Classes
+    id: 7067a2d7-0f7c-4ec4-a0af-3af49b118b36
+    type: content
   - name: Apprenticeship Program
     id: 27087b04-aa88-4a40-8f1b-f99d8aab8e0f
     type: content
