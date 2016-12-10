@@ -32,6 +32,9 @@ navigation:
   - name: Contact
     id: 5a924824-5e72-4ca9-a342-b7a907d000aa
     type: content
+  - name: Classes
+    id: 7067a2d7-0f7c-4ec4-a0af-3af49b118b36
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5393dbff-d74b-44e2-ae90-7a709088e3af.png
 title: ''
