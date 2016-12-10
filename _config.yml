@@ -23,9 +23,6 @@ navigation:
   - name: Home
     url: 'http://aostyle.org/'
     type: external
-  - name: Classes
-    id: 5c62408b-03de-40b5-b9a5-ee026b07bf26
-    type: content
   - name: Apprenticeship Program
     id: 27087b04-aa88-4a40-8f1b-f99d8aab8e0f
     type: content
