@@ -23,9 +23,6 @@ navigation:
   - name: Home
     url: 'http://aostyle.org/'
     type: external
-  - name: Apprenticeship Program
-    id: 27087b04-aa88-4a40-8f1b-f99d8aab8e0f
-    type: content
   - name: Union Benefits
     id: 2c6c3478-4b2e-463e-b72d-be4ba88708dd
     type: content
