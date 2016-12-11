@@ -25,9 +25,6 @@ navigation:
   - name: Home
     url: 'https://thegrid.ai/den/'
     type: external
-  - name: Apprenticeship Program
-    id: d5fda4df-fe39-4402-8b95-6316846d2816
-    type: content
   - name: Classes
     id: 7067a2d7-0f7c-4ec4-a0af-3af49b118b36
     type: content
