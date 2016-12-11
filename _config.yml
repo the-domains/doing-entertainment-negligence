@@ -40,7 +40,4 @@ favicon: >-
 title: ''
 content: []
 description: ''
-purpose:
-  - type: contact
-    url: 'mailto:ambassadorofstylejr@gmail.com'
-    label: Contact me
+purpose: []
