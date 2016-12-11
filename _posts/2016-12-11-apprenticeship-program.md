@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T04:56:19.718Z'
-datePublished: '2016-12-11T04:56:20.388Z'
+dateModified: '2016-12-11T04:57:35.613Z'
+datePublished: '2016-12-11T04:57:36.173Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -38,13 +38,15 @@ Additional requirements are:
 
 \* Must be a minimum of 16 years of age with parent or guardian consent
 
-Physically able to perform the work of the trade
+\* Physically able to perform the work of the trade
 
-Have a reading, writing, understanding and communication ability in the English language
+\* Have a reading, writing, understanding and communication ability in the English language
 
-Minimum 10th grade education
+\* Minimum 10th grade education
 
-Individuals interested in the Apprentice Program must fill out the registration form. Successful applicants will be notified.
+\* Individuals interested in the Apprentice Program must fill out the registration form. 
+
+Successful applicants will be notified.
 
 For additional questions contact us here.
 [Register][0]
