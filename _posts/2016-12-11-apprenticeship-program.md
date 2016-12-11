@@ -6,9 +6,9 @@ description: >-
   credit. Apprentices start at 60 percent of the journeyworker's rate and
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
-  journeyworkers…
-dateModified: '2016-12-11T07:19:34.971Z'
-datePublished: '2016-12-11T07:19:35.768Z'
+  journeyworkers.
+dateModified: '2016-12-11T07:24:17.556Z'
+datePublished: '2016-12-11T07:24:18.906Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -21,11 +21,11 @@ url: apprenticeship-program/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
+![The DEN apprenticeship program is designed as a flexible program.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
 
 # Apprenticeship Program
 
-The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers...
+The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
 
 Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
