@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T03:26:29.670Z'
-datePublished: '2016-12-11T03:26:30.489Z'
+dateModified: '2016-12-11T03:56:44.169Z'
+datePublished: '2016-12-11T03:56:45.427Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -26,6 +26,8 @@ _type: Article
 # Apprenticeship Program
 
 The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
+
+<a href='https://jonathan327.typeform.com/to/GSLANq' class='button'\>Register</a\>
 
 ---
 
