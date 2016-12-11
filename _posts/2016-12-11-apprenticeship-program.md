@@ -7,12 +7,11 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers…
-dateModified: '2016-12-11T05:59:30.005Z'
-datePublished: '2016-12-11T05:59:34.952Z'
+dateModified: '2016-12-11T06:21:50.507Z'
+datePublished: '2016-12-11T06:21:51.399Z'
 title: Apprenticeship Program
 author: []
-publisher:
-  name: jdotrdot
+publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2016-12-11-apprenticeship-program.md
@@ -22,17 +21,15 @@ url: apprenticeship-program/index.html
 _type: Article
 
 ---
-![Hitchhiking Apprentice](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
 
 # Apprenticeship Program
 
 The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers...
 
----
-
 Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
-Individuals interested in the Apprentice Program must obtain a Sponsorship letter from a Signatory Contractor. The Sponsorship letter, more commonly referred to as a "letter of intent to hire" must be on company letterhead and signed by an authorized person.
+Individuals interested in the Apprentice Program must [Register][0].
 
 Additional requirements are:
 
@@ -48,8 +45,9 @@ Additional requirements are:
 
 Successful applicants will be notified.
 
-For additional questions contact us [here][0].
-[Register][1]
+For additional questions contact us [here][1].
+[Register][2]
 
-[0]: http://ambassadorofstylejr@gmail.com/ "contact email"
-[1]: https://dentv.typeform.com/to/GSLANq
+[0]: https://dentv.typeform.com/to/GSLANq "Register"
+[1]: http://ambassadorofstylejr@gmail.com/ "contact email"
+[2]: https://dentv.typeform.com/to/GSLANq
