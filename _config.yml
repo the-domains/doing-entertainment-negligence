@@ -34,9 +34,6 @@ navigation:
   - name: Classes
     id: 7067a2d7-0f7c-4ec4-a0af-3af49b118b36
     type: content
-  - name: Contact
-    id: 5a924824-5e72-4ca9-a342-b7a907d000aa
-    type: content
   - name: Register Now!
     url: 'https://dentv.typeform.com/to/GSLANq'
     type: external
