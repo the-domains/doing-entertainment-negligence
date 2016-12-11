@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T04:04:01.562Z'
-datePublished: '2016-12-11T04:04:06.727Z'
+dateModified: '2016-12-11T04:48:19.697Z'
+datePublished: '2016-12-11T04:48:20.328Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -27,7 +27,55 @@ _type: Article
 
 The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
 
-<a href='https://jonathan327.typeform.com/to/GSLANq' class='button'\>Register</a\>
+    .button {
+       border: 1px solid #0a3c59;
+       background: #3e779d;
+       background: -webkit-gradient(linear, left top, left bottom, from(#65a9d7), to(#3e779d));
+       background: -webkit-linear-gradient(top, #65a9d7, #3e779d);
+       background: -moz-linear-gradient(top, #65a9d7, #3e779d);
+       background: -ms-linear-gradient(top, #65a9d7, #3e779d);
+       background: -o-linear-gradient(top, #65a9d7, #3e779d);
+       background-image: -ms-linear-gradient(top, #65a9d7 0%, #3e779d 100%);
+       padding: 20px 40px;
+       -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+       border-radius: 8px;
+       -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+       -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+       box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
+       text-shadow: #000000 0 1px 0;
+       color: #ffffff;
+       font-size: 24px;
+       font-family: helvetica, serif;
+       text-decoration: none;
+       vertical-align: middle;
+       }
+    .button:hover {
+       border: 1px solid #0a3c59;
+       text-shadow: #1e4158 0 1px 0;
+       background: #3e779d;
+       background: -webkit-gradient(linear, left top, left bottom, from(#65a9d7), to(#3e779d));
+       background: -webkit-linear-gradient(top, #65a9d7, #3e779d);
+       background: -moz-linear-gradient(top, #65a9d7, #3e779d);
+       background: -ms-linear-gradient(top, #65a9d7, #3e779d);
+       background: -o-linear-gradient(top, #65a9d7, #3e779d);
+       background-image: -ms-linear-gradient(top, #65a9d7 0%, #3e779d 100%);
+       color: #fff;
+       }
+    .button:active {
+       text-shadow: #1e4158 0 1px 0;
+       border: 1px solid #0a3c59;
+       background: #65a9d7;
+       background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#3e779d));
+       background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+       background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+       background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+       background: -o-linear-gradient(top, #3e779d, #65a9d7);
+       background-image: -ms-linear-gradient(top, #3e779d 0%, #65a9d7 100%);
+       color: #fff;
+       }
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XPKCkpKLbS109JzSsp0yupLEhNyy_K1UvOz9Uvydd3D_Zx9CtUV0jOSSwutlVPKi0pyc9TtwtKTc8sLkktstFPtAMAz0kZ_A" height="244" style=""></iframe>
 
 ---
 
