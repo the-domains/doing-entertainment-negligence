@@ -7,21 +7,19 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T07:24:35.778Z'
-datePublished: '2016-12-11T07:24:36.455Z'
+dateModified: '2016-12-11T07:52:14.003Z'
+datePublished: '2016-12-11T07:52:14.664Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
 via: {}
-hasPage: true
-sourcePath: _posts/2016-12-11-apprenticeship-program.md
 starred: false
-datePublishedOriginal: '2016-12-11T05:18:00.104Z'
-url: apprenticeship-program/index.html
-_type: Article
+datePublishedOriginal: '2016-12-11T07:52:14.664Z'
+sourcePath: _posts/2016-12-11-apprenticeship-program.md
+_type: Blurb
 
 ---
-![The DEN apprenticeship program is designed as a flexible program.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30f95609-d56f-46bd-b2f4-a91fe4ec6483.jpg)
 
 # Apprenticeship Program
 
@@ -29,7 +27,7 @@ The DEN apprenticeship program is designed as a flexible program. A minimum of 4
 
 Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
-Individuals interested in the Apprentice Program must [Register][0].
+Individuals interested in the Apprentice Program must [register.][0]
 
 Additional requirements are:
 
@@ -45,9 +43,9 @@ Additional requirements are:
 
 Successful applicants will be notified.
 
-For additional questions contact us [here][1].
-[Register][2]
+For additional questions [contact us here][1].
+[Register Now!][2]
 
-[0]: https://dentv.typeform.com/to/GSLANq "Register"
-[1]: http://ambassadorofstylejr@gmail.com/ "contact email"
+[0]: https://dentv.typeform.com/to/GSLANq "Register for Apprenticeship job"
+[1]: http://ambassadorofstylejr@gmail.com/ "send an email"
 [2]: https://dentv.typeform.com/to/GSLANq
