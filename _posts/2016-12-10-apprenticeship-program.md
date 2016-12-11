@@ -1,15 +1,14 @@
 ---
 inFeed: true
 description: >-
-  DEN’s Apprenticeship is designed as a two-year program. A minimum of 2400
-  hours of on-the-job work training and 360 hours of classroom training is
-  required over the course of two years in order to become a journeyworker.
-  Apprentices start at 60 percent of the journeyworker's rate and progress to
-  70, 80, 90 and 100 percent as they fulfill specific work and training
+  The DEN apprenticeship program is designed as a flexible program. A minimum of
+  4000 hours of on-the-job work training is required over the course to get
+  credit. Apprentices start at 60 percent of the journeyworker's rate and
+  progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-10T22:37:03.253Z'
-datePublished: '2016-12-10T22:37:04.362Z'
+dateModified: '2016-12-11T03:26:29.670Z'
+datePublished: '2016-12-11T03:26:30.489Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -26,27 +25,26 @@ _type: Article
 
 # Apprenticeship Program
 
-DEN's Apprenticeship is designed as a two-year program. A minimum of 2400 hours of on-the-job work training and 360 hours of classroom training is required over the course of two years in order to become a journeyworker. Apprentices start at 60 percent of the journeyworker's rate and progress to 70, 80, 90 and 100 percent as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
+The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
 
 ---
 
-What is a Laborer? Visit the Chicago Laborers' District Council website at [http://www.chicagolaborersdistrictcouncil.org/what-is-a-laborer.html][0] for information.
+Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
 Individuals interested in the Apprentice Program must obtain a Sponsorship letter from a Signatory Contractor. The Sponsorship letter, more commonly referred to as a "letter of intent to hire" must be on company letterhead and signed by an authorized person.
 
 Additional requirements are:
 
-* Must be a minimum of 16 years of age
-* Physically able to perform the work of the trade
-* Have a reading, writing, understanding and communication ability in the English language
-* Minimum 10th grade education
-* Possess an original birth certificate
-* Possess a social security card
-* Possess a valid driver's license/LYFT AFFILIATE
+* Must be a minimum of 16 years of age with parent or guardian consent Physically able to perform the work of the trade Have a reading, writing, understanding and communication ability in the English language Minimum 10th grade education
 
-Sponsorship letters are accepted year round. Successful applicants will be required to join the Laborers' Union.
+Individuals interested in the Apprentice Program must fill out the registration form. Successful applicants will be notified.
 
-For additional questions contact the Training Center in Assigned Personnel at [(630) 777-0006][1].
+For additional questions contact us here.
 
-[0]: http://www.chicagolaborersdistrictcouncil.org/what-is-a-laborer.html
-[1]: tel:6307770006
+<!-- Change the width and height values to suit you best --\>
+
+<div class="typeform-widget" data-url="https://jonathan327.typeform.com/to/GSLANq" data-text="Registration Form" style="width:100%;height:500px;"\></div\>
+
+<script\>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef\_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')\[0\];q.parentNode.insertBefore(js,q)}})()</script\>
+
+<div style="font-family: Sans-Serif;font-size: 12px;color: \#999;opacity: 0.5; padding-top: 5px;"\><a href="https://www.typeform.com/examples/forms/registration-form-template/?utm\_campaign=GSLANq&amp;utm\_source=typeform.com-5802576-Basic&amp;utm\_medium=typeform&amp;utm\_content=typeform-embedded-registrationform&amp;utm\_term=EN" style="color: \#999" target="\_blank"\>Registration form</a\>powered by Typeform</div\>
