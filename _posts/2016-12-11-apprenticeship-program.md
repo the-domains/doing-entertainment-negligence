@@ -6,12 +6,13 @@ description: >-
   credit. Apprentices start at 60 percent of the journeyworker's rate and
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
-  journeyworkers.
-dateModified: '2016-12-11T05:18:58.477Z'
-datePublished: '2016-12-11T05:19:02.028Z'
+  journeyworkers…
+dateModified: '2016-12-11T05:59:30.005Z'
+datePublished: '2016-12-11T05:59:34.952Z'
 title: Apprenticeship Program
 author: []
-publisher: {}
+publisher:
+  name: jdotrdot
 via: {}
 hasPage: true
 sourcePath: _posts/2016-12-11-apprenticeship-program.md
@@ -21,12 +22,11 @@ url: apprenticeship-program/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
+![Hitchhiking Apprentice](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d033ba3-7daa-435c-b45e-4c0a0f92eef7.png)
 
 # Apprenticeship Program
 
-The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
-[Register][0]
+The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers...
 
 ---
 
@@ -48,8 +48,8 @@ Additional requirements are:
 
 Successful applicants will be notified.
 
-For additional questions contact us [here][1].
-[Register][0]
+For additional questions contact us [here][0].
+[Register][1]
 
-[0]: https://dentv.typeform.com/to/GSLANq
-[1]: http://ambassadorofstylejr@gmail.com/ "contact email"
+[0]: http://ambassadorofstylejr@gmail.com/ "contact email"
+[1]: https://dentv.typeform.com/to/GSLANq
