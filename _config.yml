@@ -28,14 +28,14 @@ navigation:
   - name: Apprenticeship Program
     id: 1cee4537-e9c6-49c2-b92f-46e24bdb71d1
     type: content
+  - name: About Us
+    id: 8d463e5d-7511-4d85-90e4-4acff6bb4f04
+    type: content
   - name: Classes
     id: 7067a2d7-0f7c-4ec4-a0af-3af49b118b36
     type: content
   - name: Contact
     id: 5a924824-5e72-4ca9-a342-b7a907d000aa
-    type: content
-  - name: About Us
-    id: 8d463e5d-7511-4d85-90e4-4acff6bb4f04
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5393dbff-d74b-44e2-ae90-7a709088e3af.png
