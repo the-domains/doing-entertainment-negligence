@@ -7,16 +7,16 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T04:01:45.523Z'
-datePublished: '2016-12-11T04:01:47.502Z'
+dateModified: '2016-12-11T04:04:01.562Z'
+datePublished: '2016-12-11T04:04:06.727Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-11-apprenticeship-program.md
 starred: false
 datePublishedOriginal: '2016-12-11T04:01:47.502Z'
-sourcePath: _posts/2016-12-11-apprenticeship-program.md
 url: apprenticeship-program/index.html
 _type: Article
 
