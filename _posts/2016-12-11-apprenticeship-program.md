@@ -7,15 +7,15 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T05:16:37.606Z'
-datePublished: '2016-12-11T05:16:38.495Z'
+dateModified: '2016-12-11T05:18:02.604Z'
+datePublished: '2016-12-11T05:18:03.201Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-11T05:16:38.495Z'
+datePublishedOriginal: '2016-12-11T05:18:00.104Z'
 sourcePath: _posts/2016-12-11-apprenticeship-program.md
 url: apprenticeship-program/index.html
 _type: Article
@@ -49,6 +49,7 @@ Additional requirements are:
 Successful applicants will be notified.
 
 For additional questions contact us [here][1].
+[Register][0]
 
 [0]: https://dentv.typeform.com/to/GSLANq
 [1]: http://ambassadorofstylejr@gmail.com/ "contact email"
