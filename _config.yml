@@ -20,6 +20,9 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe354317-c3f5-42eb-9868-7bb3e2676180.png
 name: DEN
 navigation:
+  - name: Home
+    url: 'http://thegrid.ai/den/'
+    type: external
   - name: Apprenticeship Program
     id: d5fda4df-fe39-4402-8b95-6316846d2816
     type: content
@@ -32,9 +35,6 @@ navigation:
   - name: Contact
     id: 5a924824-5e72-4ca9-a342-b7a907d000aa
     type: content
-  - name: Home
-    url: 'http://thegrid.ai/den/'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5393dbff-d74b-44e2-ae90-7a709088e3af.png
 title: ''
