@@ -43,3 +43,7 @@ favicon: >-
 title: ''
 content: []
 description: ''
+purpose:
+  - type: external
+    url: 'https://dentv.typeform.com/to/GSLANq'
+    label: Register
