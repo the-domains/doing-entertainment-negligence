@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T08:11:17.725Z'
-datePublished: '2016-12-11T08:11:18.534Z'
+dateModified: '2016-12-11T08:46:28.233Z'
+datePublished: '2016-12-11T08:46:29.067Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -46,6 +46,6 @@ Successful applicants will be notified.
 For additional questions [contact us here][1].
 [Register Now!][2]
 
-[0]: https://dentv.typeform.com/to/GSLANq "Register for Apprenticeship job"
+[0]: https://dentv.typeform.com/to/GSLANq "Register for Apprenticeship"
 [1]: http://ambassadorofstylejr@gmail.com/ "send an email"
 [2]: https://dentv.typeform.com/to/GSLANq
