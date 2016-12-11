@@ -13,7 +13,7 @@ color:
 github: true
 layout_spectrum: 0.8451501659021741
 author:
-  name: DEN is an affiliate of Ambassadors of Style © 2016 All Rights Reserved
+  name: Ambassadors of Style
   email: ambassadorofstylejr@gmail.com
   url: 'http://aostyle.org'
 logo: >-
@@ -40,4 +40,7 @@ favicon: >-
 title: ''
 content: []
 description: ''
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:ambassadorofstylejr@gmail.com'
+    label: Contact me
