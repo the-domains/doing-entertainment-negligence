@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-12T22:29:59.294Z'
-datePublished: '2016-12-12T22:30:00.065Z'
+dateModified: '2016-12-12T22:39:49.345Z'
+datePublished: '2016-12-12T22:39:50.291Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -29,7 +29,11 @@ The DEN apprenticeship program is designed as a flexible program. A minimum of 4
 
 Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
-Individuals interested in the Apprentice Program must <a href="https://dentv.typeform.com/to/GSLANq/" target="\_blank"\>register</a\>.
+Individuals interested in the Apprentice Program must
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XKKCkpKLbS109JzSsp0yupLEhNyy_K1UvOz9Uvydd3D_Zx9CvUV1IoSSxKTy2xVYpPyknMy1ayK0pNzywuSS2y0U-0AwD8vBpz" height="244" style=""></iframe>
+
+.
 
 Additional requirements are:
 
