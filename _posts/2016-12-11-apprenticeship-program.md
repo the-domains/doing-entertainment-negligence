@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the same guidelines as for
   journeyworkers.
-dateModified: '2016-12-11T11:00:47.150Z'
-datePublished: '2016-12-11T11:00:48.723Z'
+dateModified: '2016-12-12T19:44:53.297Z'
+datePublished: '2016-12-12T19:44:54.195Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
