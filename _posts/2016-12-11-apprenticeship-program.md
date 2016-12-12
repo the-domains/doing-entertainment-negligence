@@ -3,12 +3,12 @@ inFeed: true
 description: >-
   The DEN apprenticeship program is designed as a flexible program. A minimum of
   4000 hours of on-the-job work training is required over the course to get
-  credit. Apprentices start at 60 percent of the journeyworker's rate and
+  credit. Apprentices start at 60 percent of the regular employee's rate and
   progress to higher percentages as they fulfill specific work and training
-  requirements. Benefits are established using the same guidelines as for
-  journeyworkers.
-dateModified: '2016-12-12T19:44:53.297Z'
-datePublished: '2016-12-12T19:44:54.195Z'
+  requirements. Benefits are established using the agreed guidelines between
+  employers and apprentices.
+dateModified: '2016-12-12T21:28:49.824Z'
+datePublished: '2016-12-12T21:28:50.482Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ _type: Article
 
 # Apprenticeship Program
 
-The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the journeyworker's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the same guidelines as for journeyworkers.
+The DEN apprenticeship program is designed as a flexible program. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the regular employee's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the agreed guidelines between employers and apprentices.
 
 Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
