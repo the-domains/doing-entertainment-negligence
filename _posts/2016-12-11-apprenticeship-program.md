@@ -8,8 +8,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-13T06:30:15.779Z'
-datePublished: '2016-12-13T06:30:17.270Z'
+dateModified: '2016-12-13T06:30:19.814Z'
+datePublished: '2016-12-13T06:30:20.389Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
