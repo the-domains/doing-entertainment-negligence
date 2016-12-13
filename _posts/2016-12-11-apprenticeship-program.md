@@ -8,8 +8,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-13T04:44:43.039Z'
-datePublished: '2016-12-13T04:44:43.807Z'
+dateModified: '2016-12-13T04:49:59.221Z'
+datePublished: '2016-12-13T04:49:59.770Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -22,8 +22,6 @@ url: apprenticeship-program/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2e04ed-d850-4b07-be3c-6bd07180076b.jpg)
-
 # Apprenticeship Program
 
 The DEN apprenticeship program is designed as a flexible program. Picture yourself in TV--- working in a studio, learning and getting paid. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the regular employee's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the agreed guidelines between employers and apprentices.
