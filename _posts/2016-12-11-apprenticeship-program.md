@@ -8,8 +8,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-13T06:59:53.370Z'
-datePublished: '2016-12-13T06:59:53.853Z'
+dateModified: '2016-12-13T07:02:58.799Z'
+datePublished: '2016-12-13T07:03:00.946Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -48,7 +48,7 @@ Successful applicants will be notified.
 
 For additional questions [contact us here][1].
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkUGL2zAQhe_7K7y-yGZluUtvTRRoSimFkkPb21KCIk1sZWXJ1kw2pEv-e2V7Aw3tbTSM3nxv3lJl2ilEmdO5h32IXYWtipDtjkTB51kbYS_zlqjHD3VtwNOLuI4KHbqaQv3lx7ePmyHPjCJVdcGAzB_zjFRsgGS-3Tnln_PVd2gsEsRsE073y1qt7paoo-1pVeyPXpMNvihfX1TMBuQH5ANHbqQJ-tilrbyx0ogk-NnB-F6fvxquIfV0BEXw1uYN3Yzh-vxTNRvVAbdGsol8m9AZ30l2dYXvKzhWJ0CqHoXq1O_g1Qknd9Mxbg2zhd0X940VWjlXmKRblq8HlBquHTb7YuXigCKttWYsMGq5e2Cz4gHZYpAN_fPl6d2vxSD6NONpk04prEeItB73QzGepbxMkg9s-1-S4YbEWf-cOAYUEZxkSGcH2AIQG3szWyqmlK9w1Zy90Jgg8W_IFpSZEVGovgdvPrXWmSIFhuXlUhblsn7L9O4PRTDQtw" height="30" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkUGL2zAQhe_7K7y-yGZluUtvTRRoSimFkkPb21KCIk1sZWXJ1kw2pEv-e2V7Aw3tbTSM3nxv3lJl2ilEmdO5h32IXYWtipDtjkTB51kbYS_zlqjHD3VtwNOLuI4KHbqaQv3lx7ePmyHPjCJVdcGAzB_zjFRsgGS-3Tnln_PVd2gsEsRsE073y1qt7paoo-1pVeyPXpMNvihfX1TMBuQH5ANHbqQJ-tilrbyx0ogk-NnB-F6fvxquIfV0BEXw1uYN3Yzh-vxTNRvVAbdGsol8m9AZ30l2dYXvKzhWJ0CqHoXq1O_g1Qknd9Mxbg2zhd0X940VWjlXmKRblq8HlBquHTb7YuXigCKttWYsMGq5e2Cz4gHZYpAN_fPl6d2vxSD6NONpk04prEeItB73QzGepbxMkg9s-1-S4YbEWf-cOAYUEZxkSGcH2AIQG3szWyqmlK9w1Zy90Jgg8W_IFpSZEVGovgdvPrXWmSIFhuXlUhblsn7L9O4PRTDQtw" height="31" style=""></iframe>
 
 
 
