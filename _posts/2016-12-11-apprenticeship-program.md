@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-12T23:08:36.679Z'
-datePublished: '2016-12-12T23:08:40.603Z'
+dateModified: '2016-12-12T23:59:38.447Z'
+datePublished: '2016-12-12T23:59:39.761Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -48,9 +48,7 @@ Additional requirements are:
 Successful applicants will be notified.
 
 For additional questions [contact us here][0].
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwVjTEOgkAQRa8y2g8bsDNgYmVjLPQAZtgdhAg76zKidF7Ey3kS2eYXLy_vlwRt5Kb6fb6tahi3xjj2OmU6B24kDpmVwaiYw-W4Pz3M4oFSvLFW62vdk7-vbU_jmAJgpZeItbwxSEA7257h6R03nWcHVgkCTpgv22IBDrsaoiTB4QYa8YrJsc-IAQasMU9RR0oYmax2Lr3kRcK7M9-6UTnCSV6r0tAO_laZStw" height="244" style=""></iframe>
-
-
+[Register Now!][1]
 
 [0]: https://dentv.typeform.com/to/V0rJGi "shoot us a message here"
+[1]: https://dentv.typeform.com/to/GSLANq/
