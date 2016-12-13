@@ -8,8 +8,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-13T04:07:43.719Z'
-datePublished: '2016-12-13T04:09:28.233Z'
+dateModified: '2016-12-13T04:15:37.537Z'
+datePublished: '2016-12-13T04:15:38.440Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -22,6 +22,8 @@ url: apprenticeship-program/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2e04ed-d850-4b07-be3c-6bd07180076b.jpg)
+
 # Apprenticeship Program
 
 The DEN apprenticeship program is designed as a flexible program. Picture yourself in TV--- working in a studio, learning and getting paid. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the regular employee's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the agreed guidelines between employers and apprentices.
@@ -48,7 +50,7 @@ For additional questions [contact us here][1].
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkUGL2zAQhe_7K7y-yGZluUtvTRRoSimFkkPb21KCIk1sZWXJ1kw2pEv-e2V7Aw3tbTSM3nxv3lJl2ilEmdO5h32IXYWtipDtjkTB51kbYS_zlqjHD3VtwNOLuI4KHbqaQv3lx7ePmyHPjCJVdcGAzB_zjFRsgGS-3Tnln_PVd2gsEsRsE073y1qt7paoo-1pVeyPXpMNvihfX1TMBuQH5ANHbqQJ-tilrbyx0ogk-NnB-F6fvxquIfV0BEXw1uYN3Yzh-vxTNRvVAbdGsol8m9AZ30l2dYXvKzhWJ0CqHoXq1O_g1Qknd9Mxbg2zhd0X940VWjlXmKRblq8HlBquHTb7YuXigCKttWYsMGq5e2Cz4gHZYpAN_fPl6d2vxSD6NONpk04prEeItB73QzGepbxMkg9s-1-S4YbEWf-cOAYUEZxkSGcH2AIQG3szWyqmlK9w1Zy90Jgg8W_IFpSZEVGovgdvPrXWmSIFhuXlUhblsn7L9O4PRTDQtw" height="244" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcd812b2-253f-464f-ac6e-d8a44279ddfc.jpg)
+
 
 [0]: http://<a href="https//dentv.typeform.com/to/GSLANq" target="_blank">Register</a> "REGISTER NOW!"
 [1]: https://dentv.typeform.com/to/V0rJGi "shoot us a message here"
