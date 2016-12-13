@@ -6,8 +6,8 @@ description: >-
   a nonprofit, we don’t charge for our program, so any contribution helps us get
   closer to completing our mission of getting people employed with creative
   jobs. We sincerely thank you for your generosity.
-dateModified: '2016-12-13T07:10:17.456Z'
-datePublished: '2016-12-13T07:10:18.039Z'
+dateModified: '2016-12-13T07:14:49.550Z'
+datePublished: '2016-12-13T07:14:50.661Z'
 title: Please help us out!
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _type: Article
 
 A donation to the Doing Entertainment Negligence program gives us the ability to support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people employed with creative jobs. We sincerely thank you for your generosity.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUUtLw0AQvvdXjHu2XYXiQZpeqvQipb7xFDa7k2Q0-2B3Ypp_77ZFRBHBw8A3h-_Ft6h9tKA0k3eFaJlDupRyGIZZUGNQ3Ux7K3VD04qcHLBKOgqwyK03hQg-sQBWsUEuRMk-iOVkQS70DDwGzIJkDDoBTtn8aWsEvKuuz7hM053uSL_9TWmzBZqy6pm9K-mL_7S-vX7e3L1cbS7m858aZFWDAlLUv3Xy1StqTodq6MrHe0myYre_0ninGFer8mY9a6gWUPloMBbi7DNR6itLubbqcuetGreqgyk8tAhJ1RhPAVUijDCoEdhDtgTvOnJ4ckhpmyPzm_I_guYBZKAddsd4AxluC3EuoEVqWt7DbCP3sy4nH4ZVons" height="46" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUUtLw0AQvvdXjHu2XYXiQZpeqvQipb7xFDa7k2Q0-2B3Ypp_77ZFRBHBw8A3h-_Ft6h9tKA0k3eFaJlDupRyGIZZUGNQ3Ux7K3VD04qcHLBKOgqwyK03hQg-sQBWsUEuRMk-iOVkQS70DDwGzIJkDDoBTtn8aWsEvKuuz7hM053uSL_9TWmzBZqy6pm9K-mL_7S-vX7e3L1cbS7m858aZFWDAlLUv3Xy1StqTodq6MrHe0myYre_0ninGFer8mY9a6gWUPloMBbi7DNR6itLubbqcuetGreqgyk8tAhJ1RhPAVUijDCoEdhDtgTvOnJ4ckhpmyPzm_I_guYBZKAddsd4AxluC3EuoEVqWt7DbCP3sy4nH4ZVons" height="47" style=""></iframe>
 
 
 
