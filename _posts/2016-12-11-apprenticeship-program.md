@@ -9,7 +9,7 @@ description: >-
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
 dateModified: '2016-12-13T04:07:43.719Z'
-datePublished: '2016-12-13T04:09:27.870Z'
+datePublished: '2016-12-13T04:09:28.233Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
