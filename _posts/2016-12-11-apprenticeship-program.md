@@ -7,8 +7,8 @@ description: >-
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-13T00:48:41.819Z'
-datePublished: '2016-12-13T00:48:50.633Z'
+dateModified: '2016-12-13T01:10:08.028Z'
+datePublished: '2016-12-13T01:10:09.141Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -29,11 +29,9 @@ The DEN apprenticeship program is designed as a flexible program. A minimum of 4
 
 Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
-Individuals interested in the Apprentice Program must <a class="typeform-share link" href="https://dentv.typeform.com/to/GSLANq" data-mode="1" target="\_blank"\>Register</a\>
+Individuals interested in the Apprentice Program must 
 
-<script\>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef\_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')\[0\];q.parentNode.insertBefore(js,q)}})()</script\>
-
-.
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlUMtOwzAQvPMVIRcnwnGouJG4EpUQQkI9ADeEKtfepA55eretStV_x-njUHHbHc3O7EyuAl0rRBnSroeic02CK-UgqG37EwYrB4UMV0Q9PqapgZY24kIUumtS6tKXj7en-RAGRpFKms6ADCdhQMqVQDJcLGvllabvUFokcCJP1fTmJkftbE_TqFi3mmzXRvF-o1wwIK-QDxy5kabT68Zb8tJKI7zacw3jPtu9Gq7BY9qBIjjDvKQrGs52n6qcqwa4NZId3174vxlfSnaJhA8JrJMtICUToRr127Vqi8doxx6u07LMFtFtaYVWdR0ZrxvH-wqlhgvCTrlYnFUovK0144BOy-UdOylWyLJBlvTv5Ov-OxtE7zktzX2PwrYIjmajP0RjLfHhEEdxnp7L-wPD-Ztc" height="244" style=""></iframe>
 
 Additional requirements are:
 
@@ -50,7 +48,9 @@ Additional requirements are:
 Successful applicants will be notified.
 
 For additional questions [contact us here][0].
-[Register Now!][1]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxtkUGL2zAQhe_7K7y-yGZluUtvTRRoSimFkkPb21KCIk1sZWXJ1kw2pEv-e2V7Aw3tbTSM3nxv3lJl2ilEmdO5h32IXYWtipDtjkTB51kbYS_zlqjHD3VtwNOLuI4KHbqaQv3lx7ePmyHPjCJVdcGAzB_zjFRsgGS-3Tnln_PVd2gsEsRsE073y1qt7paoo-1pVeyPXpMNvihfX1TMBuQH5ANHbqQJ-tilrbyx0ogk-NnB-F6fvxquIfV0BEXw1uYN3Yzh-vxTNRvVAbdGsol8m9AZ30l2dYXvKzhWJ0CqHoXq1O_g1Qknd9Mxbg2zhd0X940VWjlXmKRblq8HlBquHTb7YuXigCKttWYsMGq5e2Cz4gHZYpAN_fPl6d2vxSD6NONpk04prEeItB73QzGepbxMkg9s-1-S4YbEWf-cOAYUEZxkSGcH2AIQG3szWyqmlK9w1Zy90Jgg8W_IFpSZEVGovgdvPrXWmSIFhuXlUhblsn7L9O4PRTDQtw" height="244" style=""></iframe>
+
+
 
 [0]: https://dentv.typeform.com/to/V0rJGi "shoot us a message here"
-[1]: https://dentv.typeform.com/to/GSLANq/
