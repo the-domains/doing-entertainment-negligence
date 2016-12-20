@@ -6,8 +6,8 @@ description: >-
   a nonprofit, we don’t charge for our program, so any contribution helps us get
   closer to completing our mission of getting people employed with creative
   jobs. We sincerely thank you for your generosity.
-dateModified: '2016-12-13T07:14:49.550Z'
-datePublished: '2016-12-13T07:14:50.661Z'
+dateModified: '2016-12-20T05:48:57.741Z'
+datePublished: '2016-12-20T05:48:58.310Z'
 title: Please help us out!
 author: []
 publisher: {}
