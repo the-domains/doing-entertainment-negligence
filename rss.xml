@@ -4,16 +4,9 @@
         <description><![CDATA[FWD TV]]></description>
         <link>http://fwdtv.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Dec 2016 04:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2016 04:43:33 GMT</lastBuildDate>
         <atom:link href="http://fwdtv.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Dec 2016 04:36:59 GMT</pubDate>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f558061-fe46-46e6-99cc-97c6c80aac9a.png">]]></description>
-            <link>http://thegrid.ai/fwdtv/</link>
-            <guid isPermaLink="false">7e8d7fad-aeb9-428f-9224-9e5e7fb0669b</guid>
-            <pubDate>Tue, 27 Dec 2016 04:36:58 GMT</pubDate>
-        </item>
+        <pubDate>Tue, 27 Dec 2016 04:43:32 GMT</pubDate>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>Our Mission: We want to save the dying television industry by introducing a massive immersion of people into it, opening doors for a new renaissance of creators that by pioneering their intellect and wit, will lead lucrative careers and lead us to peace and space, the possibilities are endless!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1994533b-dbb1-42aa-af8f-fb12c352d068.png"></article>]]></description>
@@ -34,6 +27,13 @@
             <link>http://fwdtv.org/contact/index.html</link>
             <guid isPermaLink="false">5a924824-5e72-4ca9-a342-b7a907d000aa</guid>
             <pubDate>Tue, 27 Dec 2016 02:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/349b8cbc-00ea-4cdf-895b-948e99fe5be0.png">]]></description>
+            <link>http://fwdtv.org</link>
+            <guid isPermaLink="false">450cfdd4-b244-4b0b-8c9c-06cc77093ce8</guid>
+            <pubDate>Tue, 27 Dec 2016 04:43:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Please help us out!]]></title>
