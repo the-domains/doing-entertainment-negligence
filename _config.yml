@@ -23,12 +23,12 @@ logo: >-
 name: FWD TV
 url: 'http://thegrid.ai/fwdtv/'
 navigation:
-  - name: Apprenticeship Program
-    id: 1cee4537-e9c6-49c2-b92f-46e24bdb71d1
-    type: content
   - name: Home
     url: 'http://thegrid.ai/fwdtv/'
     type: external
+  - name: Apprenticeship Program
+    id: 1cee4537-e9c6-49c2-b92f-46e24bdb71d1
+    type: content
   - name: Register Now!
     url: 'https://dentv.typeform.com/to/GSLANq'
     type: external
