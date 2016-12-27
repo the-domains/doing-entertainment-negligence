@@ -38,6 +38,9 @@ navigation:
   - name: Donate
     id: d11d80ea-6be9-414c-bd70-d807a1a36b70
     type: content
+  - name: Home
+    url: 'http://thegrid.ai/fwdtv/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/01697035-d5be-40f0-b908-b2ea5d856ac0.png
 title: ''
