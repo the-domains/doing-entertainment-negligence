@@ -6,8 +6,8 @@ description: >-
   for our program, so any contribution helps us get closer to completing our
   mission of getting people employed with creative jobs. We sincerely thank you
   for your generosity.
-dateModified: '2016-12-27T02:35:10.041Z'
-datePublished: '2016-12-27T02:35:10.348Z'
+dateModified: '2016-12-27T03:26:04.919Z'
+datePublished: '2016-12-27T03:26:08.166Z'
 title: Please help us out!
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ _type: Article
 
 A donation to the Forward TV gives us the ability to support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people employed with creative jobs. We sincerely thank you for your generosity.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUUtLw0AQvvdXjHu2XYXiQZpeqvQipb7xFDa7k2Q0-2B3Ypp_77ZFRBHBw8A3h-_Ft6h9tKA0k3eFaJlDupRyGIZZUGNQ3Ux7K3VD04qcHLBKOgqwyK03hQg-sQBWsUEuRMk-iOVkQS70DDwGzIJkDDoBTtn8aWsEvKuuz7hM053uSL_9TWmzBZqy6pm9K-mL_7S-vX7e3L1cbS7m858aZFWDAlLUv3Xy1StqTodq6MrHe0myYre_0ninGFer8mY9a6gWUPloMBbi7DNR6itLubbqcuetGreqgyk8tAhJ1RhPAVUijDCoEdhDtgTvOnJ4ckhpmyPzm_I_guYBZKAddsd4AxluC3EuoEVqWt7DbCP3sy4nH4ZVons" height="48" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUUtLAzEQvvsrxpxto1A8SLeXKr1IqW88LdlkujuaF8ms2_33phURRQQPA98cvhfffBuSA6WZgq9ExxzzhZTDMEyjGqOyUx2c1C1NGvJywCbrJMAhd8FUIobMAlilFrkSNYcoFkdz8rFn4DFiESRj0AvwypVPOyPgTdm-4DpPdtqSfv2b0hULNHXTMwdf0xf_cXVz9bS-fb5cn89mPzXIqRYF5KR_6xSaF9ScD9XQ1w93kmTDfn-1CV4xLpf19Wra0lZAE5LBVInTz0S5bxyV2sqWzhs1bpSFCdx3CFltMZ0AqkyYYFAjcIBiCcFb8nh8SOnaD-Y35X8ELQPISDu0H_EGMtxV4kxAh9R2vIfFRu5nXbwD48uicQ" height="48" style=""></iframe>
 
 
 
