@@ -6,8 +6,8 @@ description: >-
   for our program, so any contribution helps us get closer to completing our
   mission of getting people employed with creative jobs. We sincerely thank you
   for your generosity.
-dateModified: '2016-12-27T02:35:08.481Z'
-datePublished: '2016-12-27T02:35:08.952Z'
+dateModified: '2016-12-27T02:35:10.041Z'
+datePublished: '2016-12-27T02:35:10.348Z'
 title: Please help us out!
 author: []
 publisher: {}
