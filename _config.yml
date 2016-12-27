@@ -38,6 +38,9 @@ navigation:
   - name: Donate
     id: d11d80ea-6be9-414c-bd70-d807a1a36b70
     type: content
+  - name: Home
+    url: 'http://fwdtv.org'
+    type: external
 favicon: null
 title: ''
 content: []
