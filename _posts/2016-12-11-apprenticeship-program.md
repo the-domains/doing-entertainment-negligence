@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: >-
-  The DEN apprenticeship program is designed as a flexible program. Picture
+  The FWD TV apprenticeship program is designed as a flexible program. Picture
   yourself in TV— working in a studio, learning and getting paid. A minimum of
   4000 hours of on-the-job work training is required over the course to get
   credit. Apprentices start at 60 percent of the regular employee's rate and
   progress to higher percentages as they fulfill specific work and training
   requirements. Benefits are established using the agreed guidelines between
   employers and apprentices.
-dateModified: '2016-12-27T02:31:57.534Z'
-datePublished: '2016-12-27T02:32:02.967Z'
+dateModified: '2016-12-27T02:33:30.177Z'
+datePublished: '2016-12-27T02:33:36.455Z'
 title: Apprenticeship Program
 author: []
 publisher: {}
@@ -26,9 +26,9 @@ _type: Article
 
 # Apprenticeship Program
 
-The DEN apprenticeship program is designed as a flexible program. Picture yourself in TV--- working in a studio, learning and getting paid. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the regular employee's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the agreed guidelines between employers and apprentices.
+The FWD TV apprenticeship program is designed as a flexible program. Picture yourself in TV--- working in a studio, learning and getting paid. A minimum of 4000 hours of on-the-job work training is required over the course to get credit. Apprentices start at 60 percent of the regular employee's rate and progress to higher percentages as they fulfill specific work and training requirements. Benefits are established using the agreed guidelines between employers and apprentices.
 
-Doing Entertainment Negligence is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
+Forward TV is an organized system of Entertainment apprenticeship training, working with employers following Standards of Apprenticeship. The Standards are in conformity with Federal Labor Standards (29 CFR 29), which govern employment and training in apprenticeship occupations.
 
 Individuals interested in the Apprentice Program must [Register][0].
 
