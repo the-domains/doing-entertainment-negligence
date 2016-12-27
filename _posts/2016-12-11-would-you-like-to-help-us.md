@@ -1,13 +1,13 @@
 ---
 inFeed: true
 description: >-
-  A donation to the Doing Entertainment Negligence program gives us the ability
-  to support various programs throughout the year—and keep the lights on. We’re
-  a nonprofit, we don’t charge for our program, so any contribution helps us get
-  closer to completing our mission of getting people employed with creative
-  jobs. We sincerely thank you for your generosity.
-dateModified: '2016-12-20T05:48:57.741Z'
-datePublished: '2016-12-20T05:48:58.310Z'
+  A donation to the Forward TV gives us the ability to support various programs
+  throughout the year—and keep the lights on. We’re a nonprofit, we don’t charge
+  for our program, so any contribution helps us get closer to completing our
+  mission of getting people employed with creative jobs. We sincerely thank you
+  for your generosity.
+dateModified: '2016-12-27T02:34:30.870Z'
+datePublished: '2016-12-27T02:34:31.782Z'
 title: Please help us out!
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 
 # **Please help us out!**
 
-A donation to the Doing Entertainment Negligence program gives us the ability to support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people employed with creative jobs. We sincerely thank you for your generosity.
+A donation to the Forward TV gives us the ability to support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people employed with creative jobs. We sincerely thank you for your generosity.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUUtLw0AQvvdXjHu2XYXiQZpeqvQipb7xFDa7k2Q0-2B3Ypp_77ZFRBHBw8A3h-_Ft6h9tKA0k3eFaJlDupRyGIZZUGNQ3Ux7K3VD04qcHLBKOgqwyK03hQg-sQBWsUEuRMk-iOVkQS70DDwGzIJkDDoBTtn8aWsEvKuuz7hM053uSL_9TWmzBZqy6pm9K-mL_7S-vX7e3L1cbS7m858aZFWDAlLUv3Xy1StqTodq6MrHe0myYre_0ninGFer8mY9a6gWUPloMBbi7DNR6itLubbqcuetGreqgyk8tAhJ1RhPAVUijDCoEdhDtgTvOnJ4ckhpmyPzm_I_guYBZKAddsd4AxluC3EuoEVqWt7DbCP3sy4nH4ZVons" height="47" style=""></iframe>
 
