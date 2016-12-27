@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DEN]]></title>
-        <description><![CDATA[DEN]]></description>
+        <title><![CDATA[FWD TV]]></title>
+        <description><![CDATA[FWD TV]]></description>
         <link>https://thegrid.ai/den/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 27 Dec 2016 01:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2016 02:25:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/den/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Dec 2016 01:46:24 GMT</pubDate>
+        <pubDate>Tue, 27 Dec 2016 02:25:58 GMT</pubDate>
         <item>
             <title><![CDATA[About Us]]></title>
             <description><![CDATA[<article><h1>About Us</h1><p>Our Mission:  We want to save the dying television industry by introducing a massive immersion of people into it, opening doors for a new renaissance of creators that by pioneering their intellect and wit, will lead lucrative careers and lead us to peace and space, the possibilities are endless!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d741d94b-6135-494f-bb8e-484ef49a99ff.png"></article>]]></description>
@@ -27,6 +27,13 @@
             <link>https://thegrid.ai/den/contact/index.html</link>
             <guid isPermaLink="false">5a924824-5e72-4ca9-a342-b7a907d000aa</guid>
             <pubDate>Tue, 27 Dec 2016 01:46:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><p>Our Mission: We want to save the dying television industry by introducing a massive immersion of people into it, opening doors for a new renaissance of creators that by pioneering their intellect and wit, will lead lucrative careers and lead us to peace and space, the possibilities are endless!</p></article>]]></description>
+            <link>https://thegrid.ai/den/about-us/index.html</link>
+            <guid isPermaLink="false">f71e4898-4627-4428-acde-24c76530dc1e</guid>
+            <pubDate>Tue, 27 Dec 2016 02:25:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Please help us out!]]></title>
