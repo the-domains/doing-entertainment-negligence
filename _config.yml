@@ -13,9 +13,7 @@ color:
 github: true
 layout_spectrum: 0.8451501659021741
 author:
-  name: >-
-    Forward TV is an affiliate of Ambassadors of Style Productions © 2016 All
-    Rights Reserved
+  name: Ambassadors of Style Productions © 2017 All Rights Reserved
   email: ambassadorofstylejr@gmail.com
   url: 'http://aostyle.org'
 logo: >-
@@ -41,7 +39,8 @@ navigation:
   - name: Donate
     id: d11d80ea-6be9-414c-bd70-d807a1a36b70
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/46511275-ddfd-4cbe-acc8-d6c2a01d6b8a.png
 title: ''
 content: []
 description: ''
