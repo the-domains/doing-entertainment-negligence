@@ -24,9 +24,6 @@ navigation:
   - name: Home
     url: 'http://fwdtv.org'
     type: external
-  - name: Register Now!
-    url: 'https://dentv.typeform.com/to/GSLANq'
-    type: external
   - name: Contact
     id: 5a924824-5e72-4ca9-a342-b7a907d000aa
     type: content
