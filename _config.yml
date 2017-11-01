@@ -18,7 +18,7 @@ author:
   url: 'http://aostyle.org'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab35366-ebce-498c-ba23-3f14224661a1.png
-name: FWD TV
+name: Doing Entertainment Negligence
 url: 'http://fwdtv.org'
 navigation:
   - name: Home
@@ -39,6 +39,9 @@ navigation:
   - name: Donate
     id: d11d80ea-6be9-414c-bd70-d807a1a36b70
     type: content
+  - name: About
+    id: f1c6317f-2884-4eba-bb97-14a66a75c14b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/46511275-ddfd-4cbe-acc8-d6c2a01d6b8a.png
 title: ''
@@ -51,20 +54,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d9d9070-65f6-4d21-832c-0fda466816ce.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
