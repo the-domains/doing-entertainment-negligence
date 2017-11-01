@@ -1,14 +1,14 @@
 ---
 inFeed: true
 description: >-
-  A donation to the Doing Entertainment Negligence gives us the ability to begin
+  A donation to Doing Entertainment Negligence gives us the ability to begin
   operations, support various programs throughout the year—and keep the lights
   on. We’re a nonprofit, we don’t charge for our program, so any contribution
   helps us get closer to completing our mission of getting people information,
   beginning operations, and creating creative jobs. We sincerely thank you for
   your generosity.
-dateModified: '2017-11-01T07:40:16.275Z'
-datePublished: '2017-11-01T07:40:16.789Z'
+dateModified: '2017-11-01T08:15:38.887Z'
+datePublished: '2017-11-01T08:15:39.607Z'
 title: Please help us out!
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ _type: Article
 
 # **Please help us out!**
 
-A donation to the Doing Entertainment Negligence gives us the ability to begin operations, support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people information, beginning operations, and creating creative jobs. We sincerely thank you for your generosity.
+A donation to Doing Entertainment Negligence gives us the ability to begin operations, support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people information, beginning operations, and creating creative jobs. We sincerely thank you for your generosity.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUUtLAzEQvvsrxpxto1A8SLeXKr1IqW88LdlkujuaF8ms2_33phURRQQPA98cvhfffBuSA6WZgq9ExxzzhZTDMEyjGqOyUx2c1C1NGvJywCbrJMAhd8FUIobMAlilFrkSNYcoFkdz8rFn4DFiESRj0AvwypVPOyPgTdm-4DpPdtqSfv2b0hULNHXTMwdf0xf_cXVz9bS-fb5cn89mPzXIqRYF5KR_6xSaF9ScD9XQ1w93kmTDfn-1CV4xLpf19Wra0lZAE5LBVInTz0S5bxyV2sqWzhs1bpSFCdx3CFltMZ0AqkyYYFAjcIBiCcFb8nh8SOnaD-Y35X8ELQPISDu0H_EGMtxV4kxAh9R2vIfFRu5nXbwD48uicQ" height="48" style=""></iframe>
 
