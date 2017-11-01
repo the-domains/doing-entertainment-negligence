@@ -7,8 +7,8 @@ description: >-
   helps us get closer to completing our mission of getting people information,
   beginning operations, and creating creative jobs. We sincerely thank you for
   your generosity.
-dateModified: '2017-11-01T08:15:38.887Z'
-datePublished: '2017-11-01T08:15:39.607Z'
+dateModified: '2017-11-01T09:02:11.992Z'
+datePublished: '2017-11-01T09:02:12.763Z'
 title: Please help us out!
 author: []
 publisher: {}
@@ -31,4 +31,4 @@ A donation to Doing Entertainment Negligence gives us the ability to begin opera
 
 
 
-[0]: http://thegrid.ai/den/about-us "Our mission"
+[0]: http://fwdtv.org/about-us/
