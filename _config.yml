@@ -30,9 +30,6 @@ navigation:
   - name: Register Now!
     url: 'https://dentv.typeform.com/to/GSLANq'
     type: external
-  - name: About Us
-    id: 16c8715c-ddf5-45ff-90f1-503032ce4d5b
-    type: content
   - name: Contact
     id: 5a924824-5e72-4ca9-a342-b7a907d000aa
     type: content
