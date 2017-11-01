@@ -1,5 +1,5 @@
 ---
-inFeed: true
+datePublished: '2017-11-01T10:03:23.322Z'
 description: >-
   A donation to Doing Entertainment Negligence gives us the ability to begin
   operations, support various programs throughout the year—and keep the lights
@@ -7,14 +7,14 @@ description: >-
   helps us get closer to completing our mission of getting people information,
   beginning operations, and creating creative jobs. We sincerely thank you for
   your generosity.
-dateModified: '2017-11-01T09:06:05.268Z'
-datePublished: '2017-11-01T09:06:06.060Z'
-title: Please help us out!
-author: []
-publisher: {}
 via: {}
+inFeed: true
+publisher: {}
+dateModified: '2017-11-01T10:03:15.271Z'
 sourcePath: _posts/2016-12-11-would-you-like-to-help-us.md
+title: Please help us out!
 hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2016-12-11T08:31:39.675Z'
 url: would-you-like-to-help-us/index.html
