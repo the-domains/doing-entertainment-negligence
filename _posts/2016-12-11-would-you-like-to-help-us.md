@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-11-01T21:57:40.761Z'
+datePublished: '2017-11-02T04:54:02.084Z'
 description: >-
   A donation to Doing Entertainment Negligence gives us the ability to begin
   operations, support various programs throughout the year—and keep the lights
@@ -10,9 +10,9 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-11-01T21:57:40.421Z'
+dateModified: '2017-11-02T04:53:57.210Z'
 sourcePath: _posts/2016-12-11-would-you-like-to-help-us.md
-title: Please help us out!
+title: Donate!
 hasPage: true
 author: []
 starred: false
@@ -23,7 +23,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6bd3034-ee9a-4fbe-b377-445ef8abb887.png)
 
-# **Please help us out!**
+# **Donate!**
 
 A donation to Doing Entertainment Negligence gives us the ability to begin operations, support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people information, beginning operations, and creating creative jobs. We sincerely thank you for your generosity.
 
