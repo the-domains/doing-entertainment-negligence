@@ -4,8 +4,8 @@ description: >-
   Our Mission: We develop media for broadcast, cable & digital platforms, make
   public the comprehensive media-financing information as well as give away
   profits to charity.
-dateModified: '2018-01-11T09:34:52.489Z'
-datePublished: '2018-01-11T09:34:53.542Z'
+dateModified: '2018-01-11T09:35:35.226Z'
+datePublished: '2018-01-11T09:35:35.965Z'
 title: About Us
 author: []
 publisher: {}
@@ -28,14 +28,14 @@ _type: Article
 
 ---
 
-Doing Entertainment Negligence NPO is a nonprofit professional studio based in Los Angeles. 
+Doing Entertainment Negligence NPO is a nonprofit professional studio based in Los Angeles.
 
 Our promise to give away profits to charity is just one part about us, we're also a social entrepreneurship service that represents the interests of \[aspiring\]independent producers and audiences. We seek to provide not only high quality content but be a key source for factual data and information, including, but not limited to financing.
 
 Doing Entertainment Negligence's mission is to provide an overview of pictures, picture finance, and negligently eliminate the mystique of media(Hollywood) to create a level playing field. We want to address the need for---and lack of factual information in the entertainment industry by documenting and sharing our development process.
 
-Our organization functions as a Producer developing professional program to own the rights exclusively for an agreed upon charity for each program, and to hold fundraising events in order to provide awareness of the organization's mission and programs to be developed. 
+Our organization functions as a Producer developing professional program to own the rights exclusively for an agreed upon charity for each program, and to hold fundraising events in order to provide awareness of the organization's mission and programs to be developed.
 
-We want to balance the economic development between creators and distributors with knowledge and make giving to charity as easy as watching TV. 
+We want to balance the economic development between creators and distributors with knowledge and make giving to charity as easy as watching TV.
 
 Doing Entertainment Negligence wants to provide facts, statistics, comparisons, contrasts, and then disseminate this factual information to all concerned interests(the public), including schools, media commissions, and media festivals, so that, the young people considering careers as film producers will have more than mere speculation on which to base that career decision. Our projects will entertain while being rooted to educate, empower, and give back monetarily. This includes but not limited to: workshops, resources, communities, and volunteer opportunities; that support diversity and media for their neighborhoods and employees.
