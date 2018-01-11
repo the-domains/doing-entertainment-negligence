@@ -32,6 +32,9 @@ navigation:
   - name: About
     id: d35b6fb0-cf07-43dc-91b1-5a37844059e5
     type: content
+  - name: About
+    id: 5660331f-53d9-4940-a72e-851f49af2a22
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/46511275-ddfd-4cbe-acc8-d6c2a01d6b8a.png
 title: ''
