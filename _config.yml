@@ -30,9 +30,6 @@ navigation:
     id: d11d80ea-6be9-414c-bd70-d807a1a36b70
     type: content
   - name: About
-    id: f1c6317f-2884-4eba-bb97-14a66a75c14b
-    type: content
-  - name: About
     id: d35b6fb0-cf07-43dc-91b1-5a37844059e5
     type: content
 favicon: >-
