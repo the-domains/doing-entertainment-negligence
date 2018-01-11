@@ -4,9 +4,9 @@
         <description><![CDATA[DOING ENTERTAINMENT NEGLIGENCE]]></description>
         <link>http://dentv.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Jan 2018 09:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2018 09:58:45 GMT</lastBuildDate>
         <atom:link href="http://dentv.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jan 2018 09:56:02 GMT</pubDate>
+        <pubDate>Thu, 11 Jan 2018 09:58:43 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d554e73e-9663-428a-a5cc-f29fc6cd5443.png">]]></description>
@@ -34,6 +34,13 @@
             <link>http://dentv.org/would-you-like-to-help-us/index.html</link>
             <guid isPermaLink="false">d11d80ea-6be9-414c-bd70-d807a1a36b70</guid>
             <pubDate>Sun, 11 Dec 2016 08:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5493165f-db02-4798-996e-e53254228283.png">,<h1>About Us</h1>,<p><strong>Our Mission:</strong> We develop media for broadcast, cable &amp; digital platforms, make public the comprehensive media-financing information as well as give away profits to charity.</p>,<p><strong>Our method:</strong> Collaborate with other organizations and professionals that share our vision and stay true to our mission.</p>,<p><strong>Our reason:</strong> We want to address the need for and lack of factual information in the entertainment industry. Plus, we love entertainment and want to make it better!</p>]]></description>
+            <link>http://dentv.org/about-us/index.html</link>
+            <guid isPermaLink="false">5660331f-53d9-4940-a72e-851f49af2a22</guid>
+            <pubDate>Thu, 11 Jan 2018 09:57:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
