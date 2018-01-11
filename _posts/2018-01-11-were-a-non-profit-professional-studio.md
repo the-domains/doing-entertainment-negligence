@@ -4,8 +4,8 @@ description: >-
   Our Mission: We develop media for broadcast, cable & digital platforms, make
   public the comprehensive media-financing information as well as give away
   profits to charity.
-dateModified: '2018-01-11T09:35:35.226Z'
-datePublished: '2018-01-11T09:35:35.965Z'
+dateModified: '2018-01-11T09:38:13.976Z'
+datePublished: '2018-01-11T09:38:14.777Z'
 title: About Us
 author: []
 publisher: {}
@@ -18,6 +18,8 @@ url: about-us/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbe83806-328c-45fd-9052-18bdd3e91705.jpg)
+
 # About Us
 
 **Our Mission:** We develop media for broadcast, cable & digital platforms, make public the comprehensive media-financing information as well as give away profits to charity.
