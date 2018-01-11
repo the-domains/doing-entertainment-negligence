@@ -4,9 +4,9 @@
         <description><![CDATA[DOING ENTERTAINMENT NEGLIGENCE]]></description>
         <link>http://dentv.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Jan 2018 09:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2018 09:55:43 GMT</lastBuildDate>
         <atom:link href="http://dentv.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jan 2018 09:51:50 GMT</pubDate>
+        <pubDate>Thu, 11 Jan 2018 09:55:42 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3ee5db5-1975-4b0a-be1c-ef37879fa507.png">]]></description>
@@ -34,6 +34,13 @@
             <link>http://dentv.org/would-you-like-to-help-us/index.html</link>
             <guid isPermaLink="false">d11d80ea-6be9-414c-bd70-d807a1a36b70</guid>
             <pubDate>Sun, 11 Dec 2016 08:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d554e73e-9663-428a-a5cc-f29fc6cd5443.png">]]></description>
+            <link>http://dentv.org/</link>
+            <guid isPermaLink="false">e4c44804-4b88-4930-8c81-32705a0675de</guid>
+            <pubDate>Thu, 11 Jan 2018 09:55:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
