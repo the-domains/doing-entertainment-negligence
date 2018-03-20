@@ -1,16 +1,10 @@
 ---
-datePublished: '2018-03-20T05:07:19.829Z'
-description: >-
-  A donation to Doing Entertainment Negligence gives us the ability to begin
-  operations, support various programs throughout the year—and keep the lights
-  on. We’re a nonprofit, we don’t charge for our program, so any contribution
-  helps us get closer to completing our mission of getting people information,
-  beginning operations, and creating creative jobs. We sincerely thank you for
-  your generosity.
+datePublished: '2018-03-20T06:26:13.515Z'
+description: aa
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-03-20T05:07:19.449Z'
+dateModified: '2018-03-20T06:26:12.791Z'
 sourcePath: _posts/2016-12-11-would-you-like-to-help-us.md
 title: Donate!
 hasPage: true
@@ -24,6 +18,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6bd3034-ee9a-4fbe-b377-445ef8abb887.png)
 
 # **Donate!**
+
+aa
+
+---
 
 A donation to Doing Entertainment Negligence gives us the ability to begin operations, support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people information, beginning operations, and creating creative jobs. We sincerely thank you for your generosity.
 
