@@ -4,9 +4,9 @@
         <description><![CDATA[DOING ENTERTAINMENT NEGLIGENCE]]></description>
         <link>http://dentv.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Mar 2018 03:56:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Mar 2018 04:06:22 GMT</lastBuildDate>
         <atom:link href="http://dentv.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Mar 2018 03:56:19 GMT</pubDate>
+        <pubDate>Tue, 20 Mar 2018 04:06:21 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d554e73e-9663-428a-a5cc-f29fc6cd5443.png">]]></description>
@@ -34,6 +34,13 @@
             <link>http://dentv.org/would-you-like-to-help-us/index.html</link>
             <guid isPermaLink="false">d11d80ea-6be9-414c-bd70-d807a1a36b70</guid>
             <pubDate>Sun, 11 Dec 2016 08:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Strategic Plan]]></title>
+            <description><![CDATA[<h1>Our Strategic Plan</h1>,<p>DENTV’s strategic plan is defined by the work we want to do and the goals we set.</p>,<h2>gg</h2>]]></description>
+            <link>http://dentv.org/our-strategic-plan/index.html</link>
+            <guid isPermaLink="false">7c00a535-a5c0-42ef-a77f-0a78940f58cb</guid>
+            <pubDate>Tue, 20 Mar 2018 04:06:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
