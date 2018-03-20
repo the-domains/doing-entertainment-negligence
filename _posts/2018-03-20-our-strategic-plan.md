@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   DENTV’s strategic plan is defined by the work we want to do and the goals we
   set.
-dateModified: '2018-03-20T04:07:39.250Z'
-datePublished: '2018-03-20T04:07:39.473Z'
+dateModified: '2018-03-20T04:23:51.013Z'
+datePublished: '2018-03-20T04:23:51.689Z'
 title: Our Strategic Plan
 author: []
 publisher: {}
@@ -23,4 +23,6 @@ DENTV's strategic plan is defined by the work we want to do and the goals we set
 
 ---
 
-## g
+## REFINING OUR FOCUS
+
+### Strategic Vision for Advancing Community Transformation
