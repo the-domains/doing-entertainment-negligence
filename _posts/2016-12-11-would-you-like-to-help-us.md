@@ -1,5 +1,5 @@
 ---
-datePublished: '2018-03-20T04:07:39.483Z'
+datePublished: '2018-03-20T04:24:06.965Z'
 description: >-
   A donation to Doing Entertainment Negligence gives us the ability to begin
   operations, support various programs throughout the year—and keep the lights
@@ -10,7 +10,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-03-20T04:07:39.250Z'
+dateModified: '2018-03-20T04:24:06.711Z'
 sourcePath: _posts/2016-12-11-would-you-like-to-help-us.md
 title: Donate!
 hasPage: true
