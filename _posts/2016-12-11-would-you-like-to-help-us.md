@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-06-04T13:36:45.664Z'
+datePublished: '2018-06-04T13:38:30.627Z'
 description: Click below on ways you can get involved from donations to updates.
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-06-04T13:36:39.838Z'
+dateModified: '2018-06-04T13:38:26.001Z'
 sourcePath: _posts/2016-12-11-would-you-like-to-help-us.md
 title: Get Involved
 hasPage: true
@@ -22,8 +22,6 @@ _type: Article
 Click below on ways you can get involved from donations to updates.
 
 ---
-
-Sign up for our newsletter with the link belowand check back for our calendar update.
 
 A donation to Doing Entertainment Negligence gives us the ability to begin operations, support various programs throughout the year---and keep the lights on. We're a nonprofit, we don't charge for our program, so any contribution helps us get closer to completing [our mission][0] of getting people information, beginning operations, and creating creative jobs. We sincerely thank you for your generosity.
 
