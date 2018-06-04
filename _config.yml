@@ -26,7 +26,7 @@ navigation:
   - name: Contact
     id: 5a924824-5e72-4ca9-a342-b7a907d000aa
     type: content
-  - name: Donate
+  - name: Help
     id: d11d80ea-6be9-414c-bd70-d807a1a36b70
     type: content
   - name: About
@@ -44,19 +44,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/d554e73e-9663-428a-a5cc-f29fc6cd5443.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
