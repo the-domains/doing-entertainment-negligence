@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-06-04T08:39:05.606Z'
+datePublished: '2018-06-04T10:40:52.579Z'
 description: Click below on ways you can get involved from donations to updates.
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2018-06-04T08:39:05.381Z'
+dateModified: '2018-06-04T10:40:51.739Z'
 sourcePath: _posts/2016-12-11-would-you-like-to-help-us.md
 title: Get Involved
 hasPage: true
@@ -31,4 +31,4 @@ A donation to Doing Entertainment Negligence gives us the ability to begin opera
 
 
 
-[0]: http://fwdtv.org/about-us/
+[0]: http://dentv.org/about-us/
