@@ -4,9 +4,9 @@
         <description><![CDATA[DOING ENTERTAINMENT NEGLIGENCE]]></description>
         <link>http://dentv.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jun 2018 09:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jun 2018 10:01:16 GMT</lastBuildDate>
         <atom:link href="http://dentv.org/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 Jun 2018 09:59:52 GMT</pubDate>
+        <pubDate>Mon, 04 Jun 2018 10:01:15 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6ca801a1a541a37e2ce5fa2a8dde906a/croprotate.png?cropheight=819&cropwidth=1745&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa08d5eb8-184c-4a61-866b-f5dc63570553.png&x=7&y=0">]]></description>
@@ -55,6 +55,13 @@
             <link>http://dentv.org/district-8b/index.html</link>
             <guid isPermaLink="false">c2814289-bf0b-42c8-8ee1-95fe94f4d218</guid>
             <pubDate>Mon, 04 Jun 2018 09:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[District8c]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/119d78f7-5429-45a8-be4b-9e54cdda2fba.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c88d4ed-a633-4116-bae5-0179b7443ab0.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce3945d-199b-4b01-99b1-15ad3576c30d.png">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dad78fc-b19f-472c-a822-36d2c4a47c29.png">,<h1>District8c</h1>]]></description>
+            <link>http://dentv.org/district8c/index.html</link>
+            <guid isPermaLink="false">745dd1f5-f658-4b85-b4e7-3fe3750aa757</guid>
+            <pubDate>Mon, 04 Jun 2018 10:00:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
